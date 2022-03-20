@@ -6,5 +6,7 @@ Commands to begin to work:
 					python3 manage.py runserver
 							
 					USE AFTER 'cd message_sender' COMMAND.
-							
+
+Also, make sure you have watched urls.py in message_sender directory. It's compulsory for navigate in API.
+
 As for additional tasks, I've done only 6 and 9 tips. 6 it's default django bonus.
